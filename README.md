@@ -167,7 +167,11 @@ The confusion matrix visualizes the model's predictions against true labels, sho
 4. **Diagnosis Display**: The response is displayed on the app as a diagnosis, providing actionable insights for the patient.
 
 ---
+## 📹 Demo
 
+[![RetinaGuardDemo](https://cdnapisec.kaltura.com/p/1513041/sp/151304100/thumbnail/entry_id/1_xn8dvh03/width/608/height/402)](https://cdnapisec.kaltura.com/p/1513041/sp/151304100/embedIframeJs/uiconf_id/43882971/partner_id/1513041?iframeembed=true&playerId=kaltura_player&entry_id=1_xn8dvh03&flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_4rvtr21o)
+
+---
 ## 🌟 Why DR-Diagnose Stands Out
 
 - **Impactful Healthcare Solution**: Addresses a critical global health issue—Diabetic Retinopathy affects over 100 million people worldwide.
